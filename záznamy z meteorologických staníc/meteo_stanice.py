@@ -28,4 +28,4 @@ for riadok in fr:
         for i in range(3):
             kod += riadok[i]
 priemer = sucet / pocet_merani
-print("Pocet merani:", pocet_merani, "\nNajvacsia namerana teplota:", max,"\nKod tanice najvyssej teploty:",kod, "\nPriemerna teplota:", round(priemer,2))
+print("Pocet merani:",pocet_merani, "\nNajvacsia namerana teplota:", max,"\nKod tanice najvyssej teploty:",kod, "\nPriemerna teplota:", round(priemer,2))
