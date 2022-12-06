@@ -27,5 +27,4 @@ for riadok in fr:
         del zoz[0]
     hotovecka += "\n"
     kopia_fr.write(hotovecka)
-
 print("Pocet hier:", pocet_hier, "\nPocet krokov najdlhsej hry: ", max)
